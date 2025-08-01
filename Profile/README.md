@@ -1,36 +1,44 @@
-# 🚀 IObit Driver Booster Pro (Repack & Portable) – Full Version
+# 🚀 Internet Download Manager (IDM) Repack – Full Version [No Key Needed]
 
-A clean and repacked version of **IObit Driver Booster Professional**, the trusted tool to **scan, update, and install missing drivers** or game components for Windows. This repack includes a portable mode and automatic patch — no registration needed, no ads, and full multilingual support.
+A lightweight, modified version of **Internet Download Manager** that supports full-speed downloads, browser integration, and auto-activation. This IDM repack includes custom toolbars, themes (Glyfz 2016, iOS Line, Windows 10), and backup manager – all without the need for manual registration.
 
-> ⚡ Boost your system stability and gaming performance with just one click.
+> ⚡ Fast. Stable. No bloat. Perfect for power users and beginners alike.
 
 ---
 
 ## 🧩 Features
 
-- ✅ Combined installer for both **setup** and **portable (PAF)** version
-- 🔐 No license key or registration required (includes `pawel97` patch)
-- 🧹 All ads, bloatware, and telemetry modules removed
-- 🌐 Multilingual UI including Russian (modded from lrepacks.net)
-- 🔄 Auto-picks up `Config.ini` settings during installation
-- 📦 Optionally backs up drivers & creates system restore points before updates
-- 🖥️ Clean and attractive user interface designed for simplicity
+- ✅ Full activation (no key or patch required)
+- 🌐 Browser integration with Chrome, Firefox, Opera, and Edge
+- 📺 Supports FLV/MP4 video downloads from YouTube, MySpaceTV, etc.
+- 🧠 Smart download acceleration with segmenting support
+- 🎨 Built-in custom themes:
+  - Glyfz 2016
+  - iOS Line
+  - Windows 10
+- 💾 IDM Backup Manager included
+- 🔧 Registry-based configuration support via `settings.reg`
+- 🧰 Optional custom toolbar support and autorun tools
 
 ---
 
-## 📷 Screenshots
+## 📦 What's Included
 
-> Replace below with real screenshots
-
-![Driver Booster Main UI](assets/driver-booster-ui.png)
-![Driver Scan Results](assets/driver-scan-results.png)
+| Component              | Description                                        |
+|------------------------|----------------------------------------------------|
+| `IDM.exe`              | Pre-activated executable                           |
+| `settings.reg`         | Optional custom registry import                    |
+| `toolbars.exe`         | Installer for additional visual themes             |
+| `Keys.txt`             | Backup activation keys (if needed)                 |
+| `IAS.cmd`              | Optional activation script                         |
 
 ---
 
-## 🧪 Installation Instructions
+## 💡 Installation Guide
 
 ```bash
-1. Download and extract the archive
-2. Run `setup.exe` to install or `portable.exe` to use portable mode
-3. Optional: Place `Config.ini` next to the installer to auto-load your settings
-4. Launch the app and scan for outdated drivers
+1. Download and extract the ZIP file
+2. Run `IDM.exe` to install the repacked version
+3. (Optional) Run `settings.reg` to import your custom settings
+4. (Optional) Use `toolbars.exe` to install toolbar packs
+5. Launch IDM and start downloading!
